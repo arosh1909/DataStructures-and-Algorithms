@@ -9,6 +9,6 @@
 # ToDo: 
 - [x] Refer CLRS "introduction to algorithms"
 - [x] Implement insertion sort in increasing and decreasing order.
-- [ ] Implement merge sort.
+- [x] Implement merge sort. (24-Dec-2020)
 
 # Created on; 23-December-2020
