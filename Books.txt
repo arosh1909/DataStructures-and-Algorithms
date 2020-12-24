@@ -1,0 +1,4 @@
+Right now I have knowledge of:
+1- CLRS, good, excellent coverage
+2- cracking the coding interview - 180 questions to master interviews
+3- DS and algo by karamunchi -- extensive + code + lots of problems
