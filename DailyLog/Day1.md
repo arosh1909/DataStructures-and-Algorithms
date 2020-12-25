@@ -5,7 +5,10 @@
 #### Pointer Arithmatic is scary for me. I need to practice on that.
 
 #### Don't go into competitive programming much. Just focus on implementing and understanding all of the basic DS and algorithms from cormen. dont worry about languages, c++ python. I am comfortable in c++. I will crack comming interview. there will be pure coding and mcqs of fundamentals of CS. I can do it.
+
 * (11 AM)implemented insertion sort in cpp from cormen.
+* (6PM) finished debugging mergesort.TRICKY indices.
+* (6:30) starting with maximum sub array problem. However, I'm going out with gaurav tonight. I'll come back and report. 
 
 
 ## Agenda:

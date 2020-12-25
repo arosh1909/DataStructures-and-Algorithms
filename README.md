@@ -8,7 +8,9 @@
 
 # ToDo: 
 - [x] Refer CLRS "introduction to algorithms"
-- [x] Implement insertion sort in increasing and decreasing order.
+- [x] Implement insertion sort in increasing and decreasing order (24-Dec-2020).
 - [x] Implement merge sort. (24-Dec-2020)
+- [x] Implement "The maximum subarray problem"(divideNconquer) -25-Dec-2020
+- [ ] Implement strassen's algorithm
 
 # Created on; 23-December-2020
