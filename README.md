@@ -11,6 +11,6 @@
 - [x] Implement insertion sort in increasing and decreasing order (24-Dec-2020).
 - [x] Implement merge sort. (24-Dec-2020)
 - [x] Implement "The maximum subarray problem"(divideNconquer) -25-Dec-2020
-- [ ] Implement strassen's algorithm
+- [x] Implement HeapSort - 26-December-2020
 
 # Created on; 23-December-2020
