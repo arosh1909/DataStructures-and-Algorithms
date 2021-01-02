@@ -12,5 +12,6 @@
 - [x] Implement merge sort. (24-Dec-2020)
 - [x] Implement "The maximum subarray problem"(divideNconquer) -25-Dec-2020
 - [x] Implement HeapSort - 26-December-2020
-- [x] Immplement Priority Queue
+- [x] Implement Priority Queue
+- [x] Implement quicksort- 2-Jan-2021
 # Created on; 23-December-2020
