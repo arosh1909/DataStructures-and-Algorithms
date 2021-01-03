@@ -16,4 +16,7 @@
 - [x] Implement quicksort- 2-Jan-2021
 - [x] simultaneous minimum and maximum
 - [x] ith order statistic
+- [x] Stack
+- [x] Queue
+- [ ] LinkedList
 # Created on; 23-December-2020
