@@ -14,4 +14,6 @@
 - [x] Implement HeapSort - 26-December-2020
 - [x] Implement Priority Queue
 - [x] Implement quicksort- 2-Jan-2021
+- [x] simultaneous minimum and maximum
+- [x] ith order statistic
 # Created on; 23-December-2020
