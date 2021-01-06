@@ -19,4 +19,5 @@
 - [x] Stack
 - [x] Queue
 - [ ] LinkedList
+- [ ] Trees-BST
 # Created on; 23-December-2020
