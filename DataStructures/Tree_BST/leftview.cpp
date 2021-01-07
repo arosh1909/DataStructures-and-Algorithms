@@ -13,7 +13,7 @@ public:
     node()
     {
         left = right = p = nullptr;
-        data = -111;
+        data = -11221;
     }
 };
 
@@ -127,6 +127,11 @@ public:
         return y;
     }
 
+    void treeInsert(int x){
+        node* s=new node();
+        s->data=x;
+        treeInsert(s);
+    }
     void treeInsert(node* z){
         node* y= nullptr; //parent of x
         node* x=root;
@@ -184,11 +189,19 @@ public:
             y->left->p=y;
         }
     }
-    
+    void leftView(node* root, int level, int* maxlevel){
+        if(root==nullptr)
+            return;
+        if(*maxlevel<level){
+            cout<<" "<<root->data;
+            *maxlevel=level;
+        }
+        leftView(root->left,level+1,maxlevel);
+        leftView(root->right,level+1,maxlevel);
+    }
 
     node *root;
 };
-
 
 int main()
 {
@@ -196,13 +209,10 @@ int main()
     tree->treeInsert(12);
     tree->treeInsert(5);
     tree->treeInsert(18);
-    tree->treeInsert(2);
     tree->treeInsert(1);
-    tree->treeInsert(4);
-    tree->treeInsert(3);
-    tree->treeInsert(13);
-    tree->treeInsert(19);
-    tree->treeInsert(23);
-    tree->treeInsert(22);
-    //tree->inorder(tree->root);
+    
+    tree->preorder(tree->root);
+    int m=0;
+    cout<<endl;
+    tree->leftView(tree->root,1,&m);
 }
