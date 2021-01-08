@@ -19,5 +19,6 @@
 - [x] Stack
 - [x] Queue
 - [ ] LinkedList
-- [ ] Trees-BST
+- [x] Trees-BST -6-Jan-2021
+- [x] LeftView of BST-7-JAN
 # Created on; 23-December-2020
