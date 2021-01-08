@@ -21,4 +21,5 @@
 - [ ] LinkedList
 - [x] Trees-BST -6-Jan-2021
 - [x] LeftView of BST-7-JAN
+- [x] CheckBST-7-Jan
 # Created on; 23-December-2020
